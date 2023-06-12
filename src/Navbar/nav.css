@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(250, 250, 250);
+}
+.navbar img{
+    width: 13vw;
+}
+.nav-resume-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    font-size: 1.6vw;
+    margin-right: 20px;
+    color: rgb(255, 147, 5);
+}
